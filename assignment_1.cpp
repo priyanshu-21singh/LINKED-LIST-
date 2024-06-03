@@ -1,5 +1,5 @@
 #include <iostream>
-// basic link
+// basic linkdin 
 class Node {
 public:
     int data;
