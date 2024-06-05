@@ -7,7 +7,7 @@ public:
     // constructor initializers..
     Node(int val) : data(val), next(nullptr) {}
 };
-// 
+
 class LinkedList {
 private:
     Node* head;
