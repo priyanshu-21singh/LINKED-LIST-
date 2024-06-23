@@ -1,10 +1,6 @@
 // created  by me 
 
 
-
-
-
-
 #include <iostream>
 // basic linkdin function 
 class Node {
