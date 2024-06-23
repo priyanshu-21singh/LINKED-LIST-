@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 #include <iostream>
 // basic linkdin function 
 class Node {
